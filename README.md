@@ -68,6 +68,7 @@
   <img width="48" height="48" alt="Pandas"src="https://github.com/user-attachments/assets/bb241748-3bea-471f-b0b6-290e33b0871b" />&nbsp;
   <img width="48" height="48" alt="Numpy" src="https://github.com/user-attachments/assets/5ca1d4d5-1cf7-4819-8a20-05da816f70d1" />&nbsp;
   <img width="48" height="48" alt="Scikit-Learn" src="https://github.com/user-attachments/assets/b4af9ed7-e6c8-4705-b550-f1a66037a2a9" />&nbsp;
+  <img width="48" height="48" alt="Ploty" src="https://github.com/user-attachments/assets/016c0adb-7bfd-47bd-85b5-3781b677fb95" />&nbsp;
   <img width="48" height="48" alt="Matplotlib" src="https://github.com/user-attachments/assets/c28e81c4-a873-4af5-8c80-cd8aa677f2ae" />&nbsp;
 </p>
 
