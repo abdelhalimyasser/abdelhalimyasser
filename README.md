@@ -8,19 +8,19 @@
   <a href="https://gmail.com/yourusername"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>&nbsp;
   <a href="https://instagram.com/abdelhalim__yasser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;
   <a href="https://x.com/abdelhalimyass"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/e21830c6-ccff-4860-a839-02b817a519b8"      alt="X" /></a>&nbsp;
-  <a href="https://discord.com/yourusername"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>&nbsp;
+  <a href="https://discord.com/abdelhalimyasser"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>&nbsp;
   <a href="https://wechat.com/abdelhalimyasser"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ac94c75c-1efe-4aff-aefc-e62a806f86e6" alt="Wechat" /></a>&nbsp;
-  <a href="https://vk.com/yourusername"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c22a431c-b8b3-43de-a8a1-d2f20d55ad9c"
+  <a href="https://vk.com/abdelhalimyasser"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c22a431c-b8b3-43de-a8a1-d2f20d55ad9c"
   alt="Vk" /></a>
 </p>
 
 ## 💻 Developer Accounts  
 <p align="left">
   <a href="https://leetcode.com/abdelhalimyasser"><img alt="LeetCode" height="48" width="48" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" /></a>&nbsp;
-  <a href="https://codeforces.com/"><img alt="Codeforces" height="48" width="48"src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" /></a>&nbsp;
-  <a href="https://geeksforgeeks.org/"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"></a>&nbsp;
-  <a href="https://stackoverflow.com/"><img width="48" height="48" alt="stackoverflow" src="https://github.com/user-attachments/assets/f578a393-f7cf-4864-9282-7a4133555d9a" /></a>&nbsp;
-  <a href="https://dev.to/"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to Profile" height="48" width="48"/></a>
+  <a href="https://codeforces.com/Abdelhalim_Yasser"><img alt="Codeforces" height="48" width="48"src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" /></a>&nbsp;
+  <a href="https://geeksforgeeks.org/abdelhaimyasser"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"></a>&nbsp;
+  <!-- <a href="https://stackoverflow.com/"><img width="48" height="48" alt="stackoverflow" src="https://github.com/user-attachments/assets/f578a393-f7cf-4864-9282-7a4133555d9a" /></a>&nbsp; -->
+  <a href="https://dev.to/abdelhalimyasser"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to Profile" height="48" width="48"/></a>
 
 </p>
 
