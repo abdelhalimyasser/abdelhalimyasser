@@ -1,10 +1,6 @@
-## Hi there 👋
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelhalimyasser&show_icons=true&locale=en" alt="abdelhalimyasser" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhalimyasser&" alt="abdelhalimyasser" /></p>
 
-**abdelhalimyasser/abdelhalimyasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Welcome to my GitHub profile!  
-
----
 
 ## 🌐 Connect with Me  
 <p align="left">
@@ -27,10 +23,9 @@ Welcome to my GitHub profile!
   <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow Profile" height="48" width="48"/></a>
 </p>
 
-
 ---
 
-## 💻 Languages  
+## 🧑‍💻 Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
@@ -49,6 +44,16 @@ Welcome to my GitHub profile!
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
 </p>
 
+## 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelhalimyasser&show_icons=true&locale=en&layout=compact" alt="abdelhalimyasser" height="800" /></p>
+
 ## ⚙️ Frameworks & Libraries  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
@@ -61,16 +66,10 @@ Welcome to my GitHub profile!
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
-## 🗄️ Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-</p>
-
 ---
 
-## 🛠️ Tools & Skills  
-<p align="left">
+### 🛠️ Tools & Skills  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
   <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
@@ -83,15 +82,24 @@ Welcome to my GitHub profile!
 ---
 
 ## ☕ Support Me  
-<p align="left">
-  <a href="https://www.buymeacoffee.com/yourusername"><img height='36' style='border:0px;height:36px;' src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/WeChat_Pay-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VK%20Pay-4680C2?style=for-the-badge&logo=vk&logoColor=white" /></a>
-  <a href="https://paypal.me/yourusername"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/InstaPay-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-  <a href='https://ko-fi.com/Q' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20🍩%20Donut-FF69B4?style=for-the-badge&logoColor=white" alt="Buy Me a Donut" />
+  </a>
+  <a href="https://ko-fi.com/yourusername">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black&color=FF5E5B" alt="Ko-fi" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WeChat_Pay-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=black&color=07C160" alt="WeChat Pay" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/VK%20Pay-4680C2?style=for-the-badge&logo=vk&logoColor=white&labelColor=black&color=4680C2" alt="VK Pay" />
+  </a>
+  <a href="https://paypal.me/yourusername">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=black&color=00457C" alt="PayPal" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/InstaPay-E4405F?style=for-the-badge&logo=ipn&logoColor=white&labelColor=black&color=E4405F" alt="InstaPay" />
+  </a>
 </p>
-
 
