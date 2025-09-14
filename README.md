@@ -79,11 +79,11 @@
   <img width="48" height="48" alt="Windows" src="https://github.com/user-attachments/assets/8bba4733-19c1-4655-8f2b-09e59a5fe978" />&nbsp;
   <img width="48" height="48" alt="VisualStudio" src="https://github.com/user-attachments/assets/27016173-35a8-4cca-a22b-330f6688628d" />&nbsp;
   <img width="48" height="48" alt="Vscode" src="https://github.com/user-attachments/assets/e29b1687-c565-4075-a066-a6fa79114c57" />&nbsp;
-  <img width="48" height="48" alt="PyCharm" src="https://github.com/user-attachments/assets/e2282ddb-fc89-43b2-b39b-41fc48679ec9" />&nbsp;
+  <img width="48" height="48" alt="Jupyter" src="https://github.com/user-attachments/assets/43436a64-7d98-4281-ba35-53bf8eacb363" />&nbsp;
   <img width="48" height="48" alt="Kaggel" src="https://github.com/user-attachments/assets/6b6ed97f-6391-4538-8b76-72637ca5fd49" />&nbsp;
   <img width="48" height="48" alt="Anaconda" src="https://github.com/user-attachments/assets/05f25109-eb70-4d6f-8a1c-d1c3ff2ed0de" />&nbsp;
-  <img width="48" height="48" alt="Git" src="https://github.com/user-attachments/assets/0ba26439-2a30-4818-940a-edea5da661a2" />&nbsp;
   <img width="48" height="48" alt="Docker" src="https://github.com/user-attachments/assets/f54d6d19-0bb2-4f33-81f4-567cf6c105bf" />&nbsp;
+  <img width="48" height="48" alt="Git" src="https://github.com/user-attachments/assets/0ba26439-2a30-4818-940a-edea5da661a2" />&nbsp;
   <img width="48" height="48" alt="Linux" src="https://github.com/user-attachments/assets/41ce873d-e2bc-4d5b-bd4e-614f7d3fbec4" />&nbsp;
   <img width="48" height="48" alt="Arduino" src="https://github.com/user-attachments/assets/98cef145-1e01-4f03-ac4a-22e0f952689f" />&nbsp;
 
