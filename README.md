@@ -1,115 +1,152 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelhalimyasser&show_icons=true&locale=en" alt="abdelhalimyasser" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhalimyasser&" alt="abdelhalimyasser" /></p>
+<div align="center">
 
-
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/abdelhalimyasser"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:abdelhalimyasser88@gmail.com?subject=Collaboration&body=hi%2C%20abdelhalim%20-%20I%20want%20to%20collaborate%20with%20you%20in..."><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>&nbsp;
-  <a href="https://instagram.com/abdelhalim__yasser"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>&nbsp;
-  <a href="https://x.com/abdelhalimyass"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/e21830c6-ccff-4860-a839-02b817a519b8"      alt="X" /></a>&nbsp;
-  <a href="https://discord.com/abdelhalimyasser"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>&nbsp;
-  <a href="https://wechat.com/abdelhalimyasser"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ac94c75c-1efe-4aff-aefc-e62a806f86e6" alt="Wechat" /></a>&nbsp;
-  <a href="https://vk.com/abdelhalimyasser"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c22a431c-b8b3-43de-a8a1-d2f20d55ad9c"
-  alt="Vk" /></a>
-</p>
-
-## 💻 Developer Accounts  
-<p align="left">
-  <a href="https://leetcode.com/abdelhalimyasser"><img alt="LeetCode" height="48" width="48" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" /></a>&nbsp;
-  <a href="https://codeforces.com/Abdelhalim_Yasser"><img alt="Codeforces" height="48" width="48"src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" /></a>&nbsp;
-  <a href="https://geeksforgeeks.org/abdelhaimyasser"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000"></a>&nbsp;
-  <!-- <a href="https://stackoverflow.com/"><img width="48" height="48" alt="stackoverflow" src="https://github.com/user-attachments/assets/f578a393-f7cf-4864-9282-7a4133555d9a" /></a>&nbsp; -->
-  <a href="https://dev.to/abdelhalimyasser"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to Profile" height="48" width="48"/></a>
-
-</p>
-
----
-
-## 🧑‍💻 Languages  
-<p align="left">
-  <img width="48" height="48" alt="C" src="https://github.com/user-attachments/assets/f4502597-6c39-4f84-b4ec-62c023952b8c" />&nbsp;
-  <img width="48" height="48" alt="C++" src="https://github.com/user-attachments/assets/3d8b7afe-23fc-46dd-98df-2f5352c2df18" />&nbsp;
-  <img width="48" height="48" alt="C#" src="https://github.com/user-attachments/assets/c8e88421-4766-43f3-8ad8-07c9cab7c8f2" />&nbsp;
-  <img width="48" height="48" alt="Java" src="https://github.com/user-attachments/assets/9c72a39d-206f-4842-af6f-eea94eddecba" />&nbsp;
-  <img width="48" height="48" alt="Dart" src="https://github.com/user-attachments/assets/0d3aade6-7c75-485f-a8d1-13bba2f65221" />&nbsp;
-  <img width="48" height="48" alt="Python" src="https://github.com/user-attachments/assets/1d5e91c2-de29-4f95-b5d4-b6a78cf2d136" />&nbsp;
-  <img width="48" height="48" alt="php" src="https://github.com/user-attachments/assets/071e192e-5d1e-4ae0-94b4-3ce8e0467864" />&nbsp;
-</p>
-
-## 🌐 Basic Web Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />&nbsp;
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelhalimyasser&show_icons=true&locale=en&layout=compact" alt="abdelhalimyasser" height="800" /></p>
-
----
-
-## 🗄️ Databases  
-<p align="left">
-  <img width="48" height="48" alt="MsSQL" src="https://github.com/user-attachments/assets/7bd7f050-c153-4527-87c3-dee154cb20c9" />&nbsp;
-  <img width="48" height="48" alt="MySQL" src="https://github.com/user-attachments/assets/6bb5d79e-194c-41d0-adf7-b00fc61ef8a6" />&nbsp;
-  <img width="48" height="48" alt="MD" src="https://github.com/user-attachments/assets/b188c5f1-78ad-4289-8c52-e41dac8eca52" />&nbsp;
-</p>
-
----
-
-## ⚙️ Frameworks & Libraries  
 <p align="center">
-  <img width="48" height="48" alt="React" src="https://github.com/user-attachments/assets/ad78478e-ac49-4cd5-9bce-d077650f996a" />&nbsp;
-  <!-- <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />&nbsp; -->
-  <img width="48" height="48" alt="Laravel" src="https://github.com/user-attachments/assets/5144a46d-5574-4105-95c7-f61224ff509f" />&nbsp;
-  <img width="48" height="48" alt="Django" src="https://github.com/user-attachments/assets/c7e70a1e-f9eb-4c61-bdff-3df06915ead4" />&nbsp;
-  <img width="48" height="48" alt="Flutter" src="https://github.com/user-attachments/assets/82ca0958-0c0d-443e-bf67-499ac20a6daf" />&nbsp;
-  <img width="48" height="48" alt="Pandas"src="https://github.com/user-attachments/assets/bb241748-3bea-471f-b0b6-290e33b0871b" />&nbsp;
-  <img width="48" height="48" alt="Numpy" src="https://github.com/user-attachments/assets/5ca1d4d5-1cf7-4819-8a20-05da816f70d1" />&nbsp;
-  <img width="48" height="48" alt="Scikit-Learn" src="https://github.com/user-attachments/assets/b4af9ed7-e6c8-4705-b550-f1a66037a2a9" />&nbsp;
-  <img width="48" height="48" alt="Ploty" src="https://github.com/user-attachments/assets/016c0adb-7bfd-47bd-85b5-3781b677fb95" />&nbsp;
-  <img width="48" height="48" alt="Matplotlib" src="https://github.com/user-attachments/assets/c28e81c4-a873-4af5-8c80-cd8aa677f2ae" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" alt="wave">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5E5B&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Abdelhalim+Yasser;Software+Engineer;AI+and+Data+Engineering;Always+Learning+and+Coding" alt="Typing SVG" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<br><br>
 
-## 🛠️ Tools & Softwares  
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" align="center"> My Portfolio & Resume <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" align="center"></h2>
 <p align="center">
-  <img width="48" height="48" alt="Windows" src="https://github.com/user-attachments/assets/8bba4733-19c1-4655-8f2b-09e59a5fe978" />&nbsp;
-  <img width="48" height="48" alt="VisualStudio" src="https://github.com/user-attachments/assets/27016173-35a8-4cca-a22b-330f6688628d" />&nbsp;
-  <img width="48" height="48" alt="Vscode" src="https://github.com/user-attachments/assets/e29b1687-c565-4075-a066-a6fa79114c57" />&nbsp;
-  <img width="48" height="48" alt="Jupyter" src="https://github.com/user-attachments/assets/43436a64-7d98-4281-ba35-53bf8eacb363" />&nbsp;
-  <img width="48" height="48" alt="Kaggel" src="https://github.com/user-attachments/assets/6b6ed97f-6391-4538-8b76-72637ca5fd49" />&nbsp;
-  <img width="48" height="48" alt="Anaconda" src="https://github.com/user-attachments/assets/05f25109-eb70-4d6f-8a1c-d1c3ff2ed0de" />&nbsp;
-  <img width="48" height="48" alt="Docker" src="https://github.com/user-attachments/assets/f54d6d19-0bb2-4f33-81f4-567cf6c105bf" />&nbsp;
-  <img width="48" height="48" alt="Git" src="https://github.com/user-attachments/assets/0ba26439-2a30-4818-940a-edea5da661a2" />&nbsp;
-  <img width="48" height="48" alt="Linux" src="https://github.com/user-attachments/assets/41ce873d-e2bc-4d5b-bd4e-614f7d3fbec4" />&nbsp;
-  <img width="48" height="48" alt="Arduino" src="https://github.com/user-attachments/assets/98cef145-1e01-4f03-ac4a-22e0f952689f" />&nbsp;
-
+  <a href="https://abdelhalimyasser.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Discover_My_Portfolio-0D1117?style=for-the-badge&logo=Web&logoColor=white&color=0D1117&labelColor=FF5E5B" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="حط_لينك_السي_في_هنا">
+    <img src="https://img.shields.io/badge/📄_Download_My_CV-0D1117?style=for-the-badge&logo=ReadMe&logoColor=white&color=0D1117&labelColor=2386C8" alt="CV" />
+  </a>
 </p>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<br><br>
 
-## ☕ Support Me  
+<img src="https://komarev.com/ghpvc/?username=abdelhalimyasser&label=Profile%20Views&color=FF5E5B&style=for-the-badge" alt="Profile Views" />
+
 <p align="center">
-  <a href="https://buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20🍩%20Donut-FF69B4?style=for-the-badge&logoColor=white" alt="Buy Me a Donut" />
-  </a>
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black&color=FF5E5B" alt="Ko-fi" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/WeChat_Pay-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=black&color=07C160" alt="WeChat Pay" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/VK%20Pay-4680C2?style=for-the-badge&logo=vk&logoColor=white&labelColor=black&color=4680C2" alt="VK Pay" />
-  </a>
-  <a href="https://paypal.me/yourusername">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=black&color=00457C" alt="PayPal" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/InstaPay-E4405F?style=for-the-badge&logo=ipn&logoColor=white&labelColor=black&color=E4405F" alt="InstaPay" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelhalimyasser&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="abdelhalimyasser stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhalimyasser&theme=radical&hide_border=true&background=0D1117" alt="abdelhalimyasser streak" />
 </p>
 
+<br><br>
+
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td align="center" valign="top" style="border: none;" width="40%">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="30"> Connect</h2>
+      <a href="https://linkedin.com/in/abdelhalimyasser"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> &nbsp;
+      <a href="mailto:abdelhalimyasser88@gmail.com?subject=Collaboration"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a> &nbsp;
+      <a href="https://instagram.com/abdelhalimyasserr"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a> &nbsp;
+      <a href="https://x.com/abdelhalimyass"><img width="48" height="48" alt="X" src="https://github.com/user-attachments/assets/e21830c6-ccff-4860-a839-02b817a519b8" /></a> <br><br>
+      <a href="https://discord.com/abdelhalimyasser"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a> &nbsp;
+      <a href="https://wechat.com/abdelhalimyasser"><img width="48" height="48" alt="Wechat" src="https://github.com/user-attachments/assets/ac94c75c-1efe-4aff-aefc-e62a806f86e6" /></a> &nbsp;
+      <a href="https://vk.com/abdelhalimyasser"><img width="48" height="48" alt="Vk" src="https://github.com/user-attachments/assets/c22a431c-b8b3-43de-a8a1-d2f20d55ad9c" /></a>
+    </td>
+    <td align="center" valign="top" style="border: none;" width="30%">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="30"> Devs</h2>
+      <a href="https://leetcode.com/abdelhalimyasser"><img alt="LeetCode" height="48" width="48" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" /></a> &nbsp;
+      <a href="https://codeforces.com/abdelhalimyasser"><img alt="Codeforces" height="48" width="48" src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" /></a> &nbsp;
+      <a href="https://geeksforgeeks.org/abdelhaimyasser"><img width="48" height="48" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" /></a>
+    </td>
+    <td align="center" valign="top" style="border: none;" width="30%">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="30"> Freelance</h2>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/UpWork-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat-square&logo=freelancer&logoColor=white" alt="Freelancer" /></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/Mostaql-2386C8?style=flat-square&logoColor=white" alt="Mostaql" /></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/Khamsat-1D1D1D?style=flat-square&logoColor=white" alt="Khamsat" /></a><br>
+        <a href="#"><img src="https://img.shields.io/badge/Freelanceyard-5C1865?style=flat-square&logoColor=white" alt="Freelanceyard" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<br><br>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35"> Tech Stack & Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35"></h2>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" valign="top" style="border: none;" width="25%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,c,python,kotlin,cpp,php,scala,bash&theme=dark&perline=3" alt="Languages" />
+    </td>
+    <td align="center" valign="top" style="border: none;" width="25%">
+      <h3>🌐 Front-end</h3>
+      <img src="https://skillicons.dev/icons?i=html,js,react,css,ts&theme=dark&perline=3" alt="Front-end" />
+    </td>
+    <td align="center" valign="top" style="border: none;" width="25%">
+      <h3>⚙️ Back-end</h3>
+      <p align="center">
+        <img width="48" alt="Quarkus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=fastapi,flask,express&theme=dark&perline=3" alt="Back-end" />
+      </p>
+    </td>
+    <td align="center" valign="top" style="border: none;" width="25%">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,cassandra&theme=dark&perline=3" alt="Databases" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" alt="coding gif" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelhalimyasser&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages Stats" />
+</p>
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">  
+    <td align="center" valign="top" style="border: none;" width="33%">
+      <h3>🤖 AI & ML</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv&theme=dark&perline=3" alt="AI & ML" />
+        <br><br>
+        <img width="48" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&nbsp;
+        <img width="48" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+      </p>
+    </td>
+    <td align="center" valign="top" style="border: none;" width="33%">
+      <h3>🚀 Data Engineering</h3>
+      <p align="center">
+        <img width="48" alt="Apache PySpark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />&nbsp;
+        <img width="48" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />&nbsp;
+        <img width="48" alt="Apache Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+        <br><br>
+        <img width="48" alt="Apache Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />&nbsp;
+        <img width="48" alt="Apache Hive" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
+      </p>
+    </td>
+    <td align="center" valign="top" style="border: none;" width="33%">
+      <h3>📊 Data Visualization</h3>
+      <p align="center">
+        <img width="48" alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />&nbsp;
+        <img width="48" height="48" alt="Plotly" src="https://github.com/user-attachments/assets/7fd2dc6b-b956-40ac-ad40-9c87efa5f665" />&nbsp;
+        <img width="48" height="48" alt="Seaborn" src="https://github.com/user-attachments/assets/7a39cdc8-b92a-43c8-8f1f-0b3757b8dcc5" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<br><br>
+
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="40" alt="Coffee" /> Support Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" width="40" alt="Coffee" /></h2>
+<br>
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy%20Me%20a%20🍩%20Donut-FF69B4?style=for-the-badge&logoColor=white" alt="Buy Me a Donut" /></a> &nbsp;
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black&color=FF5E5B" alt="Ko-fi" /></a> &nbsp;
+  <a href="https://paypal.me/yourusername"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=black&color=00457C" alt="PayPal" /></a>
+  <br><br>
+  <a href="#"><img src="https://img.shields.io/badge/InstaPay-E4405F?style=for-the-badge&logo=ipn&logoColor=white&labelColor=black&color=E4405F" alt="InstaPay" /></a> &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/WeChat_Pay-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=black&color=07C160" alt="WeChat Pay" /></a> &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/VK%20Pay-4680C2?style=for-the-badge&logo=vk&logoColor=white&labelColor=black&color=4680C2" alt="VK Pay" /></a>
+</p>
+
+</div>
